@@ -1,0 +1,625 @@
+งานวิจัย ในสามหทวดหมู่ เพื่อเข้าร่วมปาร์ตี้ กับazure
+# เนื้อเรื่องที่1
+# <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>ออกใหม่</title>
+    <description>รุ่นล่าสุดของแพ็คเกจทั้งหมด</description>
+    <pubDate>จันทร์, 13 ธ.ค. 2021 13:42:30 +0000</pubDate>
+    <generator>Packagist</generator>
+    <link>https://packagist.org/explore/</link>
+    <item>
+      <title>vinou/vinou-connector (7.2.5)</title>
+      <รายละเอียด><![CDATA[ส่วนขยายที่ให้การเชื่อมต่อสำหรับ vinou.de และแสดงไวน์และรายการไวน์ผ่านเทมเพลตแบบไหล]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:42:30 +0000</pubDate>
+      <link>https://packagist.org/packages/vinou/vinou-connector</link>
+      <guid isPermaLink="false">vinou/vinou-connector 7.2.5</guid>
+      <ผู้เขียน>Vinou GmbH</author>
+      <dc:creator>Vinou GmbH</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>ชอบ/vatcompliance (1.0.0)</title>
+      <description><![CDATA[vatcompliance php api library]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:42:26 +0000</pubDate>
+      <link>https://packagist.org/packages/lovat/vatcompliance</link>
+      <guid isPermaLink="false">lovat/vatcompliance 1.0.0</guid>
+      <ผู้เขียน>Denys Maksiura</author>
+      <dc:creator>Denys Maksiura</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>aenned/smc (1.3.0)</title>
+      <description><![CDATA[Blueflame cache library using shared memory (SHM)]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:42:25 +0000</pubDate>
+      <link>https://packagist.org/packages/azenned/smc</link>
+      <guid isPermaLink="false">azenned/smc 1.3.0</guid>
+      <ผู้เขียน>ZENNED Abderrazak</author>
+      <dc:creator>ZENNED อับเดอร์ราซัก</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>sett/hyperf-log-viewer (v1.1.3)</title>
+      <description><![CDATA[ ]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:42:15 +0000</pubDate>
+      <link>https://packagist.org/packages/sett/hyperf-log-viewer</link>
+      <guid isPermaLink="false">sett/hyperf-log-viewer v1.1.3</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>linslin/laravel-coffee-cache (1.22.1)</title>
+      <description><![CDATA[File based lever out cache for laravel.jpg] <คำอธิบาย><! แคชนี้จะเชื่อมต่อก่อนที่จะโหลดอัตโนมัติของผู้แต่งและการเพิ่มประสิทธิภาพของ Laravel มันจะผลักดันแอปพลิเคชันของคุณไปสู่ความเร็วแสง]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:38:49 +0000</pubDate>
+      <link>https://packagist.org/packages/linslin/laravel-coffee-cache</link>
+      <guid isPermaLink="false">linslin/laravel-coffee-cache 1.22.1</guid>
+      <ผู้เขียน>นิล กัจเสก</author>
+      <dc:creator>นิลส์ กัจเสก</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>rnd-cosoft/slm-queue-rabbitmq (v3.0.0)</title>
+      <รายละเอียด><![CDATA[โมดูล Laminas Framework ที่รวม RabbitMQ เป็นระบบการจัดคิว]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:38:00 +0000</pubDate>
+      <link>https://packagist.org/packages/rnd-cosoft/slm-queue-rabbitmq</link>
+      <guid isPermaLink="false">rnd-cosoft/slm-queue-rabbitmq v3.0.0</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>doublethreedigital/รันเวย์ (v2.1.36)</title>
+      <description><![CDATA[Use Eloquent in Statamic like never before.]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:36:55 +0000</pubDate>
+      <link>https://packagist.org/packages/doublethreedigital/runway</link>
+      <guid isPermaLink="false">doublethreedigital/runway v2.1.36</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>devgeniem/tms-theme-filharmonia (1.11.0)</title>
+      <description><![CDATA[Tampere Multisite Filharmonia Theme]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:36:30 +0000</pubDate>
+      <link>https://packagist.org/packages/devgeniem/tms-theme-filharmonia</link>
+      <guid isPermaLink="false">devgeniem/tms-theme-filharmonia 1.11.0</guid>
+      <ผู้เขียน>วิลล์ วิกลันด์</author>
+      <ผู้เขียน>Ismo Vuorinen</author>
+      <ผู้เขียน>Viljami Hirvonen</author>
+      <dc:creator>วิลล์ วิกลันด์</dc:creator>
+      <dc:creator>อิสโม วูริเน็น</dc:creator>
+      <dc:creator>Viljami Hirvonen</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>sett/hyperf-log-viewer (v1.1.2)</title>
+      <description><![CDATA[ ]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:36:02 +0000</pubDate>
+      <link>https://packagist.org/packages/sett/hyperf-log-viewer</link>
+      <guid isPermaLink="false">sett/hyperf-log-viewer v1.1.2</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>elasticms/core-bundle (1.17.4)</title>
+      <description><![CDATA[The elasticms core bundle]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:35:29 +0000</pubDate>
+      <link>https://packagist.org/packages/elasticms/core-bundle</link>
+      <guid isPermaLink="false">elasticms/core-bundle 1.17.4</guid>
+      <ผู้เขียน>มาติเยอ เดอ คีย์เซอร์</author>
+      <ผู้เขียน>David Meert</author>
+      <dc:creator>มาติเยอ เดอ คีย์เซอร์</dc:creator>
+      <dc:creator>David Meert</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>woody-wordpress/woody-theme (1.46.2)</title>
+      <description><![CDATA[Parent theme of Woody Wordpresss Builder]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:34:54 +0000</pubDate>
+      <link>https://packagist.org/packages/woody-wordpress/woody-theme</link>
+      <guid isPermaLink="false">woody-wordpress/woody-theme 1.46.2</guid>
+      <ผู้เขียน>ลีโอ ปัวรูซ์</author>
+      <ผู้เขียน>เบอนัวต์ บูชอด์</author>
+      <ผู้เขียน>เจเรมี เลเจนเดร</author>
+      <dc:creator>ลีโอ ปัวรูซ์</dc:creator>
+      <dc:creator>เบอนัวต์ บูชอด์</dc:creator>
+      <dc:creator>เจเรมี เลเจนเดร</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>trustpayments/shopware-6 (4.0.17)</title>
+      <description><![CDATA[TrustPayments integration for Shopware 6]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:34:44 +0000</pubDate>
+      <link>https://packagist.org/packages/trustpayments/shopware-6</link>
+      <guid isPermaLink="false">trustpayments/shopware-6 4.0.17</guid>
+      <ผู้เขียน>การชำระเงินที่เชื่อถือได้</author>
+      <dc:creator>การชำระเงินที่เชื่อถือได้</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>plinct/tool ​​(1.2.2)</title>
+      <description><![CDATA[Tools for Plinct app]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:33:15 +0000</pubDate>
+      <link>https://packagist.org/packages/plinct/tool</link>
+      <guid isPermaLink="false">plinct/tool ​​1.2.2</guid>
+      <ผู้เขียน>เมาโร ครูซ</author>
+      <dc:creator>เมาโร ครูซ</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>elasticms/client-helper-bundle (3.7.28)</title>
+      <description><![CDATA[ส่วนขยาย elasticms สำหรับฟังก์ชันตัวช่วยไคลเอ็นต์ (ส่วนหน้าแบบกราฟิก, API, ... )]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:32:59 +0000</pubDate>
+      <link>https://packagist.org/packages/elasticms/client-helper-bundle</link>
+      <guid isPermaLink="false">elasticms/client-helper-bundle 3.7.28</guid>
+      <ผู้เขียน>Isabelle Michiels</author>
+      <ผู้เขียน>David Mattei</author>
+      <ผู้เขียน>David Meert</author>
+      <dc:creator>อิซาเบล มิชิเอลส์</dc:creator>
+      <dc:creator>David Mattei</dc:creator>
+      <dc:creator>David Meert</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>postfinancecheckout/shopware-6 (4.0.17)</title>
+      <รายละเอียด><![CDATA[การรวม PostFinanceCheckout สำหรับ Shopware 6]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:32:37 +0000</pubDate>
+      <link>https://packagist.org/packages/postfinancecheckout/shopware-6</link>
+      <guid isPermaLink="false">postfinancecheckout/shopware-6 4.0.17</guid>
+      <ผู้เขียน>PostFinance Checkout</author>
+      <dc:creator>ชำระเงิน PostFinance</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>arbory/omnipay-first-data-latvia (3.2.0)</title>
+      <description><![CDATA[First Data Latvia omnipay package]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:32:29 +0000</pubDate>
+      <link>https://packagist.org/packages/arbory/omnipay-first-data-latvia</link>
+      <guid isPermaLink="false">arbory/omnipay-first-data-latvia 3.2.0</guid>
+      <ผู้เขียน>Martin Ungur</author>
+      <dc:creator>Martin Ungur</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>บรอดเวย์/บรอดเวย์-มัด (0.5.1)</title>
+      <รายละเอียด><![CDATA[ชุด Symfony สำหรับบรอดเวย์/บรอดเวย์]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:31:58 +0000</pubDate>
+      <link>https://packagist.org/packages/broadway/broadway-bundle</link>
+      <guid isPermaLink="false">บรอดเวย์/บรอดเวย์-มัด 0.5.1</guid>
+      <ผู้เขียน>อเล็กซานเดอร์</author>
+      <ผู้เขียน>เอมิล</author>
+      <ผู้เขียน>Fritsjan</author>
+      <ผู้เขียน>othillo</author>
+      <ผู้เขียน>วิลเลม-แจน</author>
+      <ผู้เขียน>Qandidate.com</author>
+      <dc:creator>อเล็กซานเดอร์</dc:creator>
+      <dc:creator>เอมิล</dc:creator>
+      <dc:creator>Fritsjan</dc:creator>
+      <dc:creator>othillo</dc:creator>
+      <dc:creator>วิลเลม-แจน</dc:creator>
+      <dc:creator>Qandidate.com</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>lightswitch05/php-version-audit (1.10.380)</title>
+      <description><![CDATA[เครื่องมืออำนวยความสะดวกในการตรวจสอบเวอร์ชัน PHP ที่กำหนดกับรายการช่องโหว่ CVE ที่อัปเดตเป็นประจำ การเปิดตัวใหม่ และวันที่สิ้นสุดอายุการใช้งาน]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:30:56 +0000</pubDate>
+      <link>https://packagist.org/packages/lightswitch05/php-version-audit</link>
+      <guid isPermaLink="false">lightswitch05/php-version-audit 1.10.380</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>wallee/shopware-6 (4.0.17)</title>
+      <description><![CDATA[Wallee integration for Shopware 6]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:30:47 +0000</pubDate>
+      <link>https://packagist.org/packages/wallee/shopware-6</link>
+      <guid isPermaLink="false">wallee/shopware-6 4.0.17</guid>
+      <ผู้เขียน>wallee</author>
+      <dc:creator>wallee</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>มาไคระ/ออกซิเดชั่น (2.10.1)</title>
+      <description><![CDATA[ ]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:29:26 +0000</pubDate>
+      <link>https://packagist.org/packages/makaira/oxid-connect</link>
+      <guid isPermaLink="false">makaira/oxid-connect 2.10.1</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>vinou/vinou-connector (5.10.3)</title>
+      <รายละเอียด><![CDATA[ส่วนขยายที่ให้การเชื่อมต่อสำหรับ vinou.de และแสดงไวน์และรายการไวน์ผ่านเทมเพลตแบบไหล]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:29:17 +0000</pubDate>
+      <link>https://packagist.org/packages/vinou/vinou-connector</link>
+      <guid isPermaLink="false">vinou/vinou-connector 5.10.3</guid>
+      <ผู้เขียน>Vinou GmbH</author>
+      <dc:creator>Vinou GmbH</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>bnomei/kirby3-boost (1.8.1)</title>
+      <description><![CDATA[เพิ่มความเร็วของ Kirby โดยการมีไฟล์เนื้อหาของเพจที่แคชไว้ ด้วย ID ที่ไม่ซ้ำอัตโนมัติ ค้นหาอย่างรวดเร็ว และ Tiny-URL]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:25:44 +0000</pubDate>
+      <link>https://packagist.org/packages/bnomei/kirby3-boost</link>
+      <guid isPermaLink="false">bnomei/kirby3-boost 1.8.1</guid>
+      <ผู้เขียน>บรูโน่ เมลิค</author>
+      <dc:creator>บรูโน่ เมลิค</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>acelords/laravel-core (1.5.2)</title>
+      <description><![CDATA[The core system for AceLords Products]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:23:44 +0000</pubDate>
+      <link>https://packagist.org/packages/acelords/laravel-core</link>
+      <guid isPermaLink="false">acelords/laravel-core 1.5.2</guid>
+      <ผู้เขียน>Lexx YungCarter</author>
+      <ผู้เขียน>วิศวกรระบบ AceLords</author>
+      <dc:creator>เล็กซ์ ยุงคาร์เตอร์</dc:creator>
+      <dc:creator>วิศวกรระบบของ AceLords</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>ellinaut/com-view-server-bundle (1.0.0)</title>
+      <รายละเอียด><![CDATA[การรวม Symfony สำหรับ eos/com-view-server]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:23:04 +0000</pubDate>
+      <link>https://packagist.org/packages/ellinaut/com-view-server-bundle</link>
+      <guid isPermaLink="false">ellinaut/com-view-server-bundle 1.0.0</guid>
+      <ผู้เขียน>ฟิลิปป์ มาเรียน</author>
+      <dc:creator>ฟิลิปป์ มาเรียน</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>mirhamit/ค้นหาได้ (1.0.0)</title>
+      <description><![CDATA[A Minimal Laravel Search Package]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:22:38 +0000</pubDate>
+      <link>https://packagist.org/packages/mirhamit/searchable</link>
+      <guid isPermaLink="false">mirhamit/searchable 1.0.0</guid>
+      <ผู้เขียน>ฮามิด มูซาวี</author>
+      <dc:creator>ฮามิด มูซาวี</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>cesnet/simplesamlphp-module-perun (v6.4.3)</title>
+      <รายละเอียด><![CDATA[โมดูลที่อนุญาตให้ SSP สื่อสารกับ Perun IAM https://perun.cesnet.cz]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:19:17 +0000</pubDate>
+      <link>https://packagist.org/packages/cesnet/simplesamlphp-module-perun</link>
+      <guid isPermaLink="false">cesnet/simplesamlphp-module-perun v6.4.3</guid>
+      <ผู้เขียน>Pavel Vyskocil</author>
+      <ผู้เขียน>Ondrej Velisek</author>
+      <ผู้เขียน>Michal Prochazka</author>
+      <ผู้เขียน>Pavel Brousek</author>
+      <ผู้เขียน>Dominik Frantisek Bucik</author>
+      <ผู้เขียน>Dominik Baranek</author>
+      <dc:creator>พาเวล วิสโคซิล</dc:creator>
+      <dc:creator>Ondrej Velisek</dc:creator>
+      <dc:creator>มีชาล โปรชาซก้า</dc:creator>
+      <dc:creator>Pavel Brousek</dc:creator>
+      <dc:creator>Dominik Frantisek Bucik</dc:creator>
+      <dc:creator>Dominik Baranek</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>goalgorilla/open_social (11.0.0-rc1)</title>
+      <description><![CDATA[Open Social เป็นการแจกจ่ายสำหรับการสร้างชุมชนโซเชียลและอินทราเน็ต]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:19:02 +0000</pubDate>
+      <link>https://packagist.org/packages/goalgorilla/open_social</link>
+      <guid isPermaLink="false">goalgorilla/open_social 11.0.0-rc1</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>maurice2k/multicurl (1.2.0)</title>
+      <description><![CDATA[Object based multi-curl wrapper]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:18:38 +0000</pubDate>
+      <link>https://packagist.org/packages/maurice2k/multicurl</link>
+      <guid isPermaLink="false">maurice2k/multicurl 1.2.0</guid>
+      <ผู้เขียน>มอริตซ์ เฟน</author>
+      <dc:creator>มอริตซ์ เฟน</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>sitmpcz/sit-cookienotice (1.0.2)</title>
+      <description><![CDATA[WordPress Plugin cookie bar]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:17:39 +0000</pubDate>
+      <link>https://packagist.org/packages/sitmpcz/sit-cookienotice</link>
+      <guid isPermaLink="false">sitmpcz/sit-cookienotice 1.0.2</guid>
+      <ผู้เขียน>Jaroslav Dvořák</author>
+      <dc:creator>Jaroslav Dvořák</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>องค์ประกอบคู่/crud-bundle (v1.2.5)</title>
+      <รายละเอียด><![CDATA[ใช้ crud สำหรับ CMS Jelllinek]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:17:22 +0000</pubDate>
+      <link>https://packagist.org/packages/twin-elements/crud-bundle</link>
+      <guid isPermaLink="false">twin-elements/crud-bundle v1.2.5</guid>
+      <ผู้เขียน>Władysław Dudko</author>
+      <dc:creator>Władysław Dudko</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>roadiz/entity-generator (1.7.1)</title>
+      <รายละเอียด><![CDATA[แพ็คเกจย่อย Roadiz ซึ่งสร้างคลาสเอนทิตี Doctrine สำหรับแหล่งที่มาของโหนด]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:16:02 +0000</pubDate>
+      <link>https://packagist.org/packages/roadiz/entity-generator</link>
+      <guid isPermaLink="false">roadiz/entity-generator 1.7.1</guid>
+      <ผู้เขียน>แอมบรอยส์ โมเพท</author>
+      <dc:creator>แอมบรอยส์ โมปาเต</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>firstvetcom/php-coding-standard (1.10.12)</title>
+      <description><![CDATA[ ]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:14:11 +0000</pubDate>
+      <link>https://packagist.org/packages/firstvetcom/php-coding-standard</link>
+      <guid isPermaLink="false">firstvetcom/php-coding-standard 1.10.12</guid>
+      <ผู้เขียน>ทีมพัฒนา FirstVet</author>
+      <dc:creator>ทีมพัฒนา FirstVet</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>dd/modxevo-library-ddtools (0.53.0)</title>
+      <description><![CDATA[ไลบรารี่ที่มีเครื่องมือหลากหลายที่ช่วยอำนวยความสะดวกในการทำงานของคุณ]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:13:18 +0000</pubDate>
+      <link>https://packagist.org/packages/dd/modxevo-library-ddtools</link>
+      <guid isPermaLink="false">dd/modxevo-library-ddtools 0.53.0</guid>
+      <ผู้เขียน>DD Group</author>
+      <ผู้เขียน>Ilyas Ronef</author>
+      <ผู้เขียน>Alexey Davydov</author>
+      <ผู้เขียน>วลาดิสลาฟ ลาฟรอฟ</author>
+      <ผู้เขียน>Andrey Demchenko</author>
+      <ผู้เขียน>Pavel Unzhakov</author>
+      <ผู้เขียน>Sergey Kuzminykh</author>
+      <dc:creator>กลุ่ม DD</dc:creator>
+      <dc:creator>อิลยาส โรเนฟ</dc:creator>
+      <dc:creator>Alexey Davydov</dc:creator>
+      <dc:creator>วลาดิสลาฟ ลาฟรอฟ</dc:creator>
+      <dc:creator>อันเดรย์ เดมเชนโก้</dc:creator>
+      <dc:creator>Pavel Unzhakov</dc:creator>
+      <dc:creator>Sergey Kuzminykh</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>dd/evolutioncms-libraries-ddtools (0.53.0)</title>
+      <description><![CDATA[ไลบรารี่ที่มีเครื่องมือหลากหลายที่ช่วยอำนวยความสะดวกในการทำงานของคุณ]]></description>
+pubDate>จันทร์, 13 ธ.ค. 2021 13:13:18 +0000</pubDate>
+      <link>https://packagist.org/packages/dd/evolutioncms-libraries-ddtools</link>
+      <guid isPermaLink="false">dd/evolutioncms-libraries-ddtools 0.53.0</guid>
+      <ผู้เขียน>DD Group</author>
+      <ผู้เขียน>Ilyas Ronef</author>
+      <ผู้เขียน>Alexey Davydov</author>
+      <ผู้เขียน>วลาดิสลาฟ ลาฟรอฟ</author>
+      <ผู้เขียน>Andrey Demchenko</author>
+      <ผู้เขียน>Pavel Unzhakov</author>
+      <ผู้เขียน>Sergey Kuzminykh</author>
+      <dc:creator>กลุ่ม DD</dc:creator>
+      <dc:creator>อิลยาส โรเนฟ</dc:creator>
+      <dc:creator>Alexey Davydov</dc:creator>
+      <dc:creator>วลาดิสลาฟ ลาฟรอฟ</dc:creator>
+      <dc:creator>อันเดรย์ เดมเชนโก้</dc:creator>
+      <dc:creator>Pavel Unzhakov</dc:creator>
+      <dc:creator>Sergey Kuzminykh</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>creativestyle/magesuite-disable-stock-reservation (v1.1.4)</title>
+      <รายละเอียด><![CDATA[โมดูลเพิ่มค่าตอบแทนสำหรับการจองที่สร้างโดย Magento เพื่อแสดงปริมาณการขายที่ถูกต้อง]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:12:35 +0000</pubDate>
+      <link>https://packagist.org/packages/creativestyle/magesuite-disable-stock-reservation</link>
+      <guid isPermaLink="false">creativestyle/magesuite-disable-stock-reservation v1.1.4</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>dragon-code/laravel-ide-facades-helper (v1.7.0)</title>
+      <description><![CDATA[Laravel IDE Facade Helper, สร้าง PHPDocs ที่ถูกต้องสำหรับคลาส Facade ของคุณ เพื่อปรับปรุงการเติมข้อความอัตโนมัติ]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:12:14 +0000</pubDate>
+      <link>https://packagist.org/packages/dragon-code/laravel-ide-facades-helper</link>
+      <guid isPermaLink="false">dragon-code/laravel-ide-facades-helper v1.7.0</guid>
+      <ผู้เขียน>Andrey Helldar</author>
+      <dc:creator>Andrey Helldar</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>andrey-helldar/laravel-ide-facades-helper (v1.7.0)</title>
+      <description><![CDATA[Laravel IDE Facade Helper, สร้าง PHPDocs ที่ถูกต้องสำหรับคลาส Facade ของคุณ เพื่อปรับปรุงการเติมข้อความอัตโนมัติ]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:12:14 +0000</pubDate>
+      <link>https://packagist.org/packages/andrey-helldar/laravel-ide-facades-helper</link>
+      <guid isPermaLink="false">andrey-helldar/laravel-ide-facades-helper v1.7.0</guid>
+      <ผู้เขียน>Andrey Helldar</author>
+      <dc:creator>Andrey Helldar</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>zlf/unit (1.0.0)</title>
+      <description><![CDATA[个人程序工具包]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:08:41 +0000</pubDate>
+      <link>https://packagist.org/packages/zlf/unit</link>
+      <guid isPermaLink="false">zlf/unit 1.0.0</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>matycz/lemo-grid (5.0.2)</title>
+      <รายละเอียด><![CDATA[การรวม jqGrid เข้ากับ Laminas]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:08:15 +0000</pubDate>
+      <link>https://packagist.org/packages/matycz/lemo-grid</link>
+      <guid isPermaLink="false">matycz/lemo-grid 5.0.2</guid>
+      <ผู้เขียน>Matej Szendi</author>
+      <dc:creator>Matej Szendi</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>danog/madelineproto (7.0.17)</title>
+      <รายละเอียด><![CDATA[การใช้งาน PHP ของโปรโตคอล MTProto ของโทรเลข]]></description>
+      <pubDate>จันทร์, 13 ธ.ค. 2021 13:07:27 +0000</pubDate>
+      <link>https://packagist.org/packages/daog/madelineproto</link>
+      <guid isPermaLink="false">danog/madelineproto 7.0.17</guid>
+      <ผู้เขียน>Daniil Gentili</author>
+      <dc:creator>Daniil Gentili</dc:creator>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
+
+#เนื้อเรื่องที่2
+
+# แบบฟอร์มการสร้างผลงาน
+# This workflow will build and push a node.js application to an Azure Web App when there is a push to the master branch.
+#
+# This workflow assumes you have already created the target Azure App Service web app.
+# For instructions see https://docs.microsoft.com/azure/app-service/app-service-plan-manage#create-an-app-service-plan
+#
+# To configure this workflow:
+#
+# 1. For Linux apps, add an app setting called WEBSITE_WEBDEPLOY_USE_SCM and set it to true in your app **before downloading the file**.
+#      For more instructions see: https://docs.microsoft.com/azure/app-service/configure-common#configure-app-settings
+#
+# 2. Set up a secret in your repository named AZURE_WEBAPP_PUBLISH_PROFILE with the value of your Azure publish profile.
+#    For instructions on obtaining the publish profile see: https://docs.microsoft.com/azure/app-service/deploy-github-actions#configure-the-github-secret
+#
+# 3. Change the values for the AZURE_WEBAPP_NAME, AZURE_WEBAPP_PACKAGE_PATH and NODE_VERSION environment variables  (below).
+#
+# For more information on GitHub Actions for Azure, refer to https://github.com/Azure/Actions
+# For more samples to get started with GitHub Action workflows to deploy to Azure, refer to https://github.com/Azure/actions-workflow-samples
+on:
+  push:
+    branches:
+      - master
+
+env:
+  AZURE_WEBAPP_NAME: your-app-name    # set this to your application's name
+  AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
+  NODE_VERSION: '10.x'                # set this to the node version to use
+
+jobs:
+  build-and-deploy:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ env.NODE_VERSION }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ env.NODE_VERSION }}
+    - name: npm install, build, and test
+      run: |
+        # Build and test the project, then
+        # deploy to Azure Web App.
+        npm install
+        npm run build --if-present
+        npm run test --if-present
+    - name: 'Deploy to Azure WebApp'
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: ${{ env.AZURE_WEBAPP_NAME }}
+        publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+        package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+# ส่วนขยายเพิ่ม
+1 [![GitHub Actions CI](https://github.com/WatcharinNate/opensource.guide/actions/workflows/tests.yml/badge.svg?branch=15872gonate&event=gollum)](https://github.com/WatcharinNate/opensource.guide/actions/workflows/tests.yml)
+
+2  
+ ​/*​* 
+ ​ *  Hashidsxx (c) 2014 Toon Schoenmakers 
+ ​ * 
+ ​ *  https://github.com/schoentoon/hashidsxx 
+ ​ *  hashidsxx may be freely distributed under the MIT license. 
+ ​ ​*/ 
+  
+ ​#​include​ ​<​getopt.h​> 
+ ​#​include​ ​<​string.h​> 
+  
+ ​#​include​ ​"​hashids.h​" 
+  
+ ​#​include​ ​<​iostream​> 
+ ​#​include​ ​<​cstdlib​> 
+ ​#​include​ ​<​list​> 
+  
+ ​static​ ​const​ ​struct​ ​option​ g_LongOpts[] = { 
+ ​  { ​"​help​"​, no_argument, ​0​, ​'​h​'​ }, 
+ ​  { ​"​salt​"​, required_argument, ​0​, ​'​s​'​ }, 
+ ​  { ​"​alphabet​"​, required_argument, ​0​, ​'​a​'​ }, 
+ ​  { ​"​min​"​, required_argument, ​0​, ​'​m​'​ }, 
+ ​  { ​"​input​"​, required_argument, ​0​, ​'​i​'​ }, 
+ ​  { ​0​, ​0​, ​0​, ​0​ } 
+ ​}; 
+  
+ ​static​ ​int​ ​usage​(​const​ ​char​ *prog) { 
+ ​  std::cerr << ​"​USAGE: [encode|decode|encodeHex|decodeHex]​"​ << prog 
+ ​            << ​"​ [options]​"​ << std::endl 
+ ​            << ​"​-h, --help      Show this help message​"​ << std::endl 
+ ​            << ​"​-s, --salt      The salt to use for the encryption​"​ << std::endl 
+ ​            << ​"​-a, --alphabet  A custom alphabet to use​"​ << std::endl 
+ ​            << ​"​-m, --min       The minimum amount of characters to use, only ​" 
+ ​               ​"​useful when encoding​"​ << std::endl 
+ ​            << ​"​-i, --input     Input numbers, in case of encode repeat this ​" 
+ ​               ​"​for multiple input numbers​"​ << std::endl; 
+ ​  ​return​ ​1​; 
+ ​}; 
+  
+ ​int​ ​main​(​int​ argc, ​char​ **argv) { 
+ ​  ​if​ (argc == ​1​) 
+ ​    ​return​ ​usage​(argv[​0​]); 
+  
+ ​  std::string salt; 
+ ​  std::string ​alphabet​(DEFAULT_ALPHABET); 
+ ​  ​unsigned​ ​int​ min_length = ​0​; 
+  
+ ​  std::string ​mode​(argv[​1​]); 
+  
+ ​  ​if​ (mode != ​"​encode​"​ && mode != ​"​encodeHex​"​ && mode != ​"​decode​"​ && 
+ ​      mode != ​"​decodeHex​"​) 
+ ​    ​return​ ​usage​(argv[​0​]); 
+  
+ ​  ​bool​ encode = mode.​compare​(​0​, ​6​, ​"​encode​"​) == ​0​; 
+ ​  ​bool​ hex = mode.​compare​(​6​, ​3​, ​"​Hex​"​) == ​0​; 
+  
+ ​  std::list<​uint64_t​> encode_input; 
+ ​  std::string decode_input; 
+ ​  std::string hexInput; 
+  
+ ​  ​int​ arg, optindex; 
+ ​  ​while​ ((arg = ​getopt_long​(argc, argv, ​"​hs:a:m:i:​"​, g_LongOpts, &optindex)) != 
+ ​         -​1​) { 
+ ​    ​switch​ (arg) { 
+ ​    ​case​ ​'​h​'​: 
+ ​      ​return​ ​usage​(argv[​0​]); 
+ ​    ​case​ ​'​s​'​: 
+ ​      salt = ​std::string​(​optarg​); 
+ ​      ​break​; 
+ ​    ​case​ ​'​a​'​: 
+ ​      alphabet = ​std::string​(​optarg​); 
+ ​      ​break​; 
+ ​    ​case​ ​'​m​'​: 
+ ​      min_length = ​std::strtol​(​optarg​, ​NULL​, ​10​); 
+ ​      ​break​; 
+ ​    ​case​ ​'​i​'​: 
+ ​      ​if​ (hex) 
+ ​        hexInput = ​std::string​(​optarg​); 
+ ​      ​else​ ​if​ (encode) 
+ ​        encode_input.​push_back​(​std::strtol​(​optarg​, ​NULL​, ​10​)); 
+ ​      ​else 
+ ​        decode_input = ​std::string​(​optarg​); 
+ ​      ​break​; 
+ ​    } 
+ ​  } 
+  
+ ​  ​try​ { 
+ ​    hashidsxx::Hashids ​hash​(salt, min_length, alphabet); 
+  
+ ​    ​if​ (hex) { 
+ ​      ​if​ (encode) 
+ ​        std::cout << hash.​encodeHex​(hexInput) << std::endl; 
+ ​      ​else 
+ ​        std::cout << hash.​decodeHex​(hexInput) << std::endl; 
+ ​    } ​else​ { 
+ ​      ​if​ (encode) 
+ ​        std::cout << hash.​encode​(encode_input.​begin​(), encode_input.​end​()) 
+ ​                  << std::endl; 
+ ​      ​else​ { 
+ ​        std::vector<​uint64_t​> ​output​(hash.​decode​(decode_input)); 
+ ​        ​for​ (std::vector<​uint64_t​>::const_iterator iter = output.​begin​(); iter != output.​end​(); ++iter) 
+ ​          std::cout << *iter << std::endl; 
+ ​      } 
+ ​    } 
+ ​  } 
+ ​  ​catch​ (​const​ std::runtime_error &error) { 
+ ​    std::cerr << error.​what​() << std::endl; 
+ ​    ​return​ ​1​; 
+ ​  }; 
+  
+ ​  ​return​ ​0​; 
+ ​};
+
